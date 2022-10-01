@@ -4,10 +4,10 @@
         "address": "Dreamweavers Hill Resort, Lamdalag, Lake Sebu",
         "price": 10000,
         "description": "This place is perfect for your family outing. The villa has a private pool",
-        "imageUrl": "https://q-cf.bstatic.com/images/hotel/max1280x900/488/48858480.jpg ",
+        "imageUrl": "https://github.com/marxmind/booking/blob/main/assets/rooms/socimer-villa.jpg",
         "rooms": [
             {
-                "imageUrl": "https://github.com/marxmind/booking/blob/main/assets/rooms/socimer-vila.jpg",
+                "imageUrl": "https://github.com/marxmind/booking/blob/main/assets/rooms/socimer-villa.jpg",
                 "name": "Standard Room"
             },
             {
@@ -59,11 +59,11 @@
         ]
     },
     {
-        "name": "hotel 2",
-        "price": 230,
-        "address": "awesome 1234",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imageUrl": "https://www.ahstatic.com/photos/1867_ho_00_p_1024x768.jpg",
+        "name": "Villa Marie",
+        "price": 12000,
+        "address": "Dreamweavers Hill Resort, Lamdalag, Lake Sebu",
+        "description": "This room is good for 12 person. Private pool",
+        "imageUrl": "https://github.com/marxmind/booking/blob/main/assets/rooms/marie-villa.jpg",
         "rooms": [
             {
                 "imageUrl": "https://f4photographystudio.com/wp-content/uploads/2019/12/Colorful-Hotel-Room.jpg",
@@ -114,11 +114,11 @@
         ]
     },
     {
-        "name": "hotel 3",
-        "address": "Funny street 12",
-        "price": 140,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imageUrl": "https://q-cf.bstatic.com/images/hotel/max1024x768/209/209735787.jpg",
+        "name": "Villa Mercedes",
+        "address": "Dreamweavers Hill Resort, Lamdalag, Lake Sebu",
+        "price": 7500,
+        "description": "Villa with private pool good for 5 person",
+        "imageUrl": "https://github.com/marxmind/booking/blob/main/assets/rooms/mercedes-villa.jpg",
         "rooms": [
             {
                 "imageUrl": "https://f4photographystudio.com/wp-content/uploads/2019/12/Colorful-Hotel-Room.jpg",
