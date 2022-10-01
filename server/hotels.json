@@ -7,7 +7,7 @@
         "imageUrl": "https://github.com/marxmind/booking/blob/c93e850a1f6d1dd9da035c487f3284758cebc116/assets/rooms/socimer-villa.jpg",
         "rooms": [
             {
-                "imageUrl": "https://github.com/marxmind/booking/blob/main/assets/rooms/socimer-villa.jpg",
+                "imageUrl": "https://github.com/marxmind/booking/blob/c93e850a1f6d1dd9da035c487f3284758cebc116/assets/rooms/socimer-villa.jpg",
                 "name": "Standard Room"
             },
             {
@@ -66,7 +66,7 @@
         "imageUrl": "https://github.com/marxmind/booking/blob/c93e850a1f6d1dd9da035c487f3284758cebc116/assets/rooms/marie-villa.jpg",
         "rooms": [
             {
-                "imageUrl": "https://f4photographystudio.com/wp-content/uploads/2019/12/Colorful-Hotel-Room.jpg",
+                "imageUrl": "https://github.com/marxmind/booking/blob/c93e850a1f6d1dd9da035c487f3284758cebc116/assets/rooms/marie-villa.jpg",
                 "name": "Room abc"
             },
             {
@@ -121,7 +121,7 @@
         "imageUrl": "https://github.com/marxmind/booking/blob/c93e850a1f6d1dd9da035c487f3284758cebc116/assets/rooms/mercedes-villa.jpg",
         "rooms": [
             {
-                "imageUrl": "https://f4photographystudio.com/wp-content/uploads/2019/12/Colorful-Hotel-Room.jpg",
+                "imageUrl": "https://github.com/marxmind/booking/blob/c93e850a1f6d1dd9da035c487f3284758cebc116/assets/rooms/mercedes-villa.jpg",
                 "name": "Room X"
             },
             {
