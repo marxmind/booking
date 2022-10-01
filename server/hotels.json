@@ -1,10 +1,10 @@
 [
     {
-        "name": "Hotel Recarlisonse",
-        "address": "Av. Main Street 1212. Near from KFC",
-        "price": 240,
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "imageUrl": "https://q-cf.bstatic.com/images/hotel/max1280x900/488/48858480.jpg",
+        "name": "Villa Socimer",
+        "address": "Dreamweavers Hill Resort, Lamdalag, Lake Sebu",
+        "price": 10000,
+        "description": "This place is perfect for your family outing. The villa has a private pool",
+        "imageUrl": "https://q-cf.bstatic.com/images/hotel/max1280x900/488/48858480.jpg ",
         "rooms": [
             {
                 "imageUrl": "https://f4photographystudio.com/wp-content/uploads/2019/12/Colorful-Hotel-Room.jpg",
