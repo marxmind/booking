@@ -4,10 +4,10 @@
         "address": "Dreamweavers Hill Resort, Lamdalag, Lake Sebu",
         "price": 10000,
         "description": "This place is perfect for your family outing. The villa has a private pool",
-        "imageUrl": "https://iili.io/KSX4pf.jpg",
+        "imageUrl": "https://freeimage.host/i/LWRftV",
         "rooms": [
             {
-                "imageUrl": "https://iili.io/KSX4pf.jpg",
+                "imageUrl": "https://freeimage.host/i/LWRftV",
                 "name": "Standard Room"
             },
             {
@@ -62,8 +62,8 @@
         "name": "Villa Marie",
         "price": 12000,
         "address": "Dreamweavers Hill Resort, Lamdalag, Lake Sebu",
-        "description": "This room is good for 12 person. Private pool",
-        "imageUrl": "https://github.com/marxmind/booking/blob/a96f97d0a165ff1e7a0b797349d049013e4c867d/assets/rooms/marie-villa.jpg",
+        "description": "https://freeimage.host/i/LW1l87",
+        "imageUrl": "https://freeimage.host/i/LW1l87",
         "rooms": [
             {
                 "imageUrl": "https://github.com/marxmind/booking/blob/a96f97d0a165ff1e7a0b797349d049013e4c867d/assets/rooms/marie-villa.jpg",
@@ -118,10 +118,10 @@
         "address": "Dreamweavers Hill Resort, Lamdalag, Lake Sebu",
         "price": 7500,
         "description": "Villa with private pool good for 5 person",
-        "imageUrl": "https://github.com/marxmind/booking/blob/a96f97d0a165ff1e7a0b797349d049013e4c867d/assets/rooms/mercedes-villa.jpg",
+        "imageUrl": "https://freeimage.host/i/LW0QQj",
         "rooms": [
             {
-                "imageUrl": "https://github.com/marxmind/booking/blob/a96f97d0a165ff1e7a0b797349d049013e4c867d/assets/rooms/mercedes-villa.jpg",
+                "imageUrl": "https://freeimage.host/i/LW0QQj",
                 "name": "Room X"
             },
             {
