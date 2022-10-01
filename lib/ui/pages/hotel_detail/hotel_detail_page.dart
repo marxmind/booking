@@ -1,5 +1,6 @@
 
 
+import 'package:bookingapp/ui/pages/hotel_detail/amenities/hotel_amenities_tab.dart';
 import 'package:bookingapp/ui/pages/hotel_detail/info/hotel_info_tab.dart';
 import 'package:bookingapp/ui/pages/hotel_detail/review/hotel_review_tab.dart';
 import 'package:bookingapp/ui/pages/hotel_detail/room/hotel_room_tab.dart';
@@ -108,7 +109,7 @@ class RecipeBody extends StatelessWidget {
               child: Container(
                 // padding: EdgeInsets.all(24),
                 child: DefaultTabController(
-                  length: 3,
+                  length: 4,
                   child: Column(
                     children: <Widget>[
                       Expanded(
@@ -119,6 +120,7 @@ class RecipeBody extends StatelessWidget {
                               HotelInformationTab(hotel: hotel),
                               HotelRoomTab(rooms: hotel.rooms),
                               HotelReviewTab(reviews: hotel.reviews),
+                              HotelAmenitiesTab(amenities: hotel.amenities)
                             ],
                           ),
                         ),
@@ -148,6 +150,12 @@ class RecipeBody extends StatelessWidget {
                               style: TextStyle(color: Colors.black),
                             ),
                           ),
+                          Tab(
+                            child: Text(
+                              'AMENITIES',
+                              style: TextStyle(color: Colors.black),
+                            ),
+                          )
                         ],
                       ),
                     ],

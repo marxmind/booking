@@ -3,7 +3,7 @@ class HotelModel {
   String address;
   String description;
   String imageUrl;
-  int price;
+  double price;
   List<Room> rooms;
   List<Review> reviews;
   List<Amenitie> amenities;

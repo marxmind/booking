@@ -3,6 +3,7 @@
 import 'package:bookingapp/commons/theme.dart';
 import 'package:bookingapp/model/hotel_model.dart';
 import 'package:bookingapp/ui/pages/hotel_detail/hotel_detail_page.dart';
+import 'package:bookingapp/ui/utils/money_form.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
@@ -64,10 +65,7 @@ class HotelItem extends StatelessWidget {
                         ),
                         Padding(
                           padding: const EdgeInsets.all(8.0),
-                          child: Text(
-                            'S/ ${hotel.price.toString()}',
-                            style: priceTextStyle,
-                          ),
+                          child: MoneyForm(amount: hotel.price),
                         ),
                       ],
                     ),
@@ -105,6 +103,7 @@ class HotelItem extends StatelessWidget {
     fontSize: 24.0,
     fontWeight: FontWeight.bold,
   );
+
 
   final TextStyle titleTextStyle = const TextStyle(
     color: Colors.black,
