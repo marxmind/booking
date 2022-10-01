@@ -7,7 +7,7 @@ import 'package:flutter/services.dart';
 class HotelApi {
   final String _baseUrl = 'https://raw.githubusercontent.com';
   final String _endPoint =
-      '/enzoftware/hotel_booking_app/master/server/hotels.json';
+      '/marxmind/booking/main/server/hotels.json';
 
   Future<List<HotelModel>> getHotels() async {
     //internet
