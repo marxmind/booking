@@ -23,7 +23,7 @@
             {
                 "message": "Very confortable rooms!!",
                 "user": "Nan",
-                "userImage": "https://www.dittolanding.org/templates/semantic/img/nan.jpg",
+                "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
                 "rate": 4
             },
             {
@@ -82,7 +82,7 @@
             {
                 "message": "Hi, really nice place!!",
                 "user": "Nani",
-                "userImage": "https://www.dittolanding.org/templates/semantic/img/nan.jpg",
+                "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
                 "rate": 4
             },
             {
@@ -137,19 +137,19 @@
             {
                 "message": "Hi, really nice place!!",
                 "user": "Messi",
-                "userImage": "https://image.flaticon.com/icons/png/512/805/805404.png",
+                "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
                 "rate": 4
             },
             {
                 "message": "Could be better :(",
                 "user": "Neymar",
-                "userImage": "https://cdn3.iconfinder.com/data/icons/diversity-avatars-vol-2/64/footballer-soccer-neymar-njr-psg-brazil-512.png",
+                "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
                 "rate": 3
             },
             {
                 "message": "Best place to stay :)",
                 "user": "Cristiano",
-                "userImage": "https://cdn4.iconfinder.com/data/icons/diversity-v2-0-volume-03/64/footballers-cristiano-ronaldo-512.png",
+                "userImage": "https://react.semantic-ui.com/images/avatar/large/elliot.jpg",
                 "rate": 5
             }
         ],
