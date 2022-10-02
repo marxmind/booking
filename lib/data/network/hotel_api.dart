@@ -13,9 +13,9 @@ class HotelApi {
     //internet
     var url = Uri.parse(_baseUrl + _endPoint);
     final data = await http.get(url);
-    //print("check:");
-    //print(data.body);
-    //print("end check");
+    print("check:");
+     print(data.body);
+    print("end check");
     //local
     //String response = await rootBundle.loadString('data/hotels.json');
     //print("Json: " + response);
